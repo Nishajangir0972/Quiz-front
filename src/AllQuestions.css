@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section p {
+    font-size: 20px;
+    height: 30px;
+    width: 133px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 2px 5px 2px 5px;
+}
+h3 {
+    height: 28px;
+    width: 120px;
+    border: 2px solid black;
+    margin: 22px;
+    padding: 2px 5px 2px 5px;
+}
+button {
+    height: 22px;
+    width: 175px;
+    margin: 5px 5px;
+    /* padding: 1px 0px; */
+}

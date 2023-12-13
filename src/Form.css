@@ -1,0 +1,23 @@
+.header {
+    height: 390px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.header label {
+   margin-left: 103px;
+   font-size: 20px;
+}
+ .header button {
+    height: 30px;
+    width: 59px;
+    margin-top: 20px;
+}
+.header input {
+    width: 295px;
+    height: 20px;
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
+}
